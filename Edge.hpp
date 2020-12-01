@@ -2,8 +2,8 @@
 #define EDGE_H
 
 /* This is the header file for the Edge class, needed for the Graph program.  *
- * Kurtis Adams U#14843960 *
- *                         *
+ * Kurtis Adams U#14843960      *
+ * Jefferson Taylor U#96232253  *
  *                         */
 
 #include <string>
